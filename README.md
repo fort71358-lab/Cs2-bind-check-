@@ -28,3 +28,5 @@ A simple Python tool that automatically finds the installed Steam and Counter-St
 ## License
 
 This project is open source and intended for educational and personal use.
+download: 
+https://drive.google.com/file/d/1zVaRf1EYuLqha-3OBz_oTbHG_DiXC1IB/view?usp=sharing
