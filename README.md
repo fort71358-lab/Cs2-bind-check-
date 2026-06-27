@@ -65,4 +65,4 @@ dist/
 
 Если вы нашли ошибку или хотите предложить новую функцию, создайте **Issue** или **Pull Request**.
 Скачать:
-[https://drive.google.com/file/d/1zVaRf1EYuLqha-3OBz_oTbHG_DiXC1IB/view?usp=sharing](https://drive.google.com/file/d/1AVW9_o6RST7pi1WQulHPu5tCWBAOaOjm/view?usp=sharing)
+https://drive.google.com/file/d/1pmLMkbUq8tnsg38jowkMpCj0d01UxRaG/view?usp=sharing
