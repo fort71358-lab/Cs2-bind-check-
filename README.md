@@ -34,7 +34,7 @@
 3. Запустите:
 
 ```bash
-python main.py
+python "cs2 bind checker.py"
 ```
 
 ## Что отображает программа
@@ -48,7 +48,7 @@ python main.py
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile main.py
+pyinstaller --onefile "cs2 bind checker.py"
 ```
 
 Готовый файл появится в папке:
